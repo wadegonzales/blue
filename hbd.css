@@ -10,7 +10,7 @@ body {
   margin: 0;
   object-fit: cover;
   padding: 0;
-  height: 120vh;
+  height: auto;
  width: 100%;
   position: absolute;
 }
