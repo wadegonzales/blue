@@ -8,6 +8,7 @@ body {
 
 .bg{
   margin: 0;
+  object-fit: cover;
   padding: 0;
   height: 120vh;
  width: 100%;
